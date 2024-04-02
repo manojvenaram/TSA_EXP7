@@ -78,13 +78,19 @@ plt.show()
 
 ### OUTPUT:
 
-GIVEN DATA
+#### GIVEN DATA
+![image](https://github.com/manojvenaram/TSA_EXP7/assets/94165064/55464c15-0b8e-494a-9403-a83ff3cdf99a)
+#### Augmented Dickey-Fuller test
+![image](https://github.com/manojvenaram/TSA_EXP7/assets/94165064/a35cd199-a5c7-48af-94f7-e9876e266333)
 
-PACF - ACF
+#### PACF - ACF
+![image](https://github.com/manojvenaram/TSA_EXP7/assets/94165064/836855ba-78bf-4dae-b447-bfe0212e99b3)
+![image](https://github.com/manojvenaram/TSA_EXP7/assets/94165064/bbb16425-6806-4f62-90c9-121341f09106)
+#### Mean Squared Error
+![image](https://github.com/manojvenaram/TSA_EXP7/assets/94165064/e22306cf-9799-48dd-ad79-8ea4861a2e01)
+#### PREDICTION
+![image](https://github.com/manojvenaram/TSA_EXP7/assets/94165064/9749b788-f6c8-4309-a735-b7e8146509b1)
 
-PREDICTION
-
-FINIAL PREDICTION
 
 ### RESULT:
 Thus we have successfully implemented the auto regression function using python.
